@@ -1,3 +1,3 @@
 # We Be Trippin'
 
-- [Banff Or Bust](banff-or-bust/)
+- [Banff Or Bust](banff-or-bust/README.md)

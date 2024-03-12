@@ -24,7 +24,7 @@
 
 ### Maps
 
-- [Revelstoke to Jasper](https://maps.app.goo.gl/Xhs2vFXCdAoyS1nWA)
+- [Revelstoke to Jasper via Icefields Pkwy](https://maps.app.goo.gl/RYxs2AL69SYDyoE36)
 - [Marmot Lodge](https://maps.app.goo.gl/5gU1pQNSb7h4HHaJ9)
 
 ### Resources

@@ -43,8 +43,7 @@
 
 ### Resources
 
-- [Hot Tub, Sauna, Mountain Views, The Minks - AirBnB Rental](https://www.airbnb.com/rooms/35375517?check_in=2024-08-07&check_out=2024-08-11&adults=16&children=0&infants=0)
-- [Large Ski-In/Ski-Out Cabin, Open Concept, Hot Tub - AirBnb Rental](https://www.airbnb.com/rooms/51025615?adults=13&check_in=2024-08-07&check_out=2024-08-11)
+- [AirBnB Rental](https://www.airbnb.com/rooms/35375517?check_in=2024-08-07&check_out=2024-08-11&adults=16&children=0&infants=0)
 - [Banff National Park Visitor Guides](https://parks.canada.ca/pn-np/ab/banff/visit/brochures)
 
 ## Day 8 - Golden to Kamloops

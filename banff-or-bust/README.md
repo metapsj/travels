@@ -43,7 +43,8 @@
 
 ### Resources
 
-- [AirBnb Rental](https://www.airbnb.com/rooms/51025615?adults=13&check_in=2024-08-07&check_out=2024-08-11&source_impression_id=p3_1710117878_OMRpLqCHgj6Ut6F%2B&previous_page_section_name=1000&federated_search_id=9a20a6a3-bc20-41b8-8a9d-97122c5e0ccc)
+- [Hot Tub, Sauna, Mountain Views, The Minks - AirBnB Rental](https://www.airbnb.com/rooms/35375517?check_in=2024-08-07&check_out=2024-08-11&adults=16&children=0&infants=0)
+- [Large Ski-In/Ski-Out Cabin, Open Concept, Hot Tub - AirBnb Rental](https://www.airbnb.com/rooms/51025615?adults=13&check_in=2024-08-07&check_out=2024-08-11)
 - [Banff National Park Visitor Guides](https://parks.canada.ca/pn-np/ab/banff/visit/brochures)
 
 ## Day 8 - Golden to Kamloops
@@ -54,11 +55,11 @@
 ### Maps
 
 - [Golden to Kamloops](https://maps.app.goo.gl/9sgiYtW9ENmhaG4x7)
-- [Travelodge Mountview](https://maps.app.goo.gl/CKspWLqcdd4TGNF58)
+- [Travelodge City Centre](https://maps.app.goo.gl/Bw2hGNgDUVKoBjMC7)
 
 ### Resources
 
-- [Travelodge Mountview Website](https://www.wyndhamhotels.com/en-ca/travelodge/kamloops-british-columbia/travelodge-by-wyndham-kamloops-mountview/overview)
+- [Travelodge City Centre Website](https://www.wyndhamhotels.com/en-ca/travelodge/kamloops-british-columbia/travelodge-kamloops/overview)
 
 ## Day 9 - Kamloops to Seattle
 

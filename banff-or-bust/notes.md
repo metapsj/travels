@@ -1,4 +1,4 @@
-# notes
+# Notes
 
 Cell Phones And Wifi In The Canadian Rockies
 

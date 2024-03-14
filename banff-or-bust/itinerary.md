@@ -2,7 +2,6 @@
 
 - Trip Dates: August 4th - 12th
 - Prices are Per Night, Per Family
-- [Notes i.e. Cell Coverage](notes.md)
 
 ## Day 1 - Seattle to Revelstoke
 

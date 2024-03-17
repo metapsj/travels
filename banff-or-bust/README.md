@@ -7,3 +7,4 @@
 
 - [Itinerary](itinerary.md)
 - [Notes](notes.md)
+- [Preparation](preparation.md)

@@ -2,6 +2,7 @@
 
 - Trip Dates: August 4th - 12th
 - Prices are Per Night, Per Family
+- 1474 Miles Round Trip
 
 ## Day 1 - Seattle to Revelstoke
 

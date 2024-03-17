@@ -9,6 +9,8 @@ description
 - Gas Can
 - Hitch
 - Spare Tire
+- Inspection
+- Oil Change
 
 ## Communications
 

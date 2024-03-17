@@ -45,6 +45,7 @@
 
 - [AirBnB Rental](https://www.airbnb.com/rooms/35375517?check_in=2024-08-07&check_out=2024-08-11&adults=16&children=0&infants=0)
 - [Banff National Park Visitor Guides](https://parks.canada.ca/pn-np/ab/banff/visit/brochures)
+- [Golden Tourism Website](https://www.tourismgolden.com/)
 
 ## Day 8 - Golden to Kamloops
 

@@ -8,7 +8,7 @@ Gasoline Prices & Estimates
 
 - \$1.46 Per Litre (3/17/2024)
 - \$5.53 Per Gallon (3/17/2024)
-- \$7.50 Per Gallon (Estimate for August 2024)
+- \$7.00 Per Gallon (Estimate for August 2024)
 
 ## Day 1 - Seattle to Revelstoke
 

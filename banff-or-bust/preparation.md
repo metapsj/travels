@@ -4,6 +4,11 @@ description
 
 ## Toyota Tacoma
 
+- Inspection
+- Battery
+- Belts (Fan, Alternator)
+- Suspension
+- Oil Change
 - Headlights
 - Tail Lights
 - Bed Crossbars
@@ -11,11 +16,9 @@ description
 - Gas Can
 - Hitch
 - Spare Tire
-- Inspection
-- Oil Change
 
 ## Communications
 
-- Lorawan Mesh Network
+- LoraWan Mesh Network
 - Android App
 - iPhone App

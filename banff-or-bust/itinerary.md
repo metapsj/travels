@@ -2,7 +2,13 @@
 
 - Trip Dates: August 4th - 12th
 - Prices are Per Night, Per Family
-- 1474 Miles Round Trip
+- 1,474 Miles Round Trip
+
+Gasoline Prices & Estimates
+
+- \$1.46 Per Litre (3/17/2024)
+- \$5.53 Per Gallon (3/17/2024)
+- \$7.50 Per Gallon (Estimate for August 2024)
 
 ## Day 1 - Seattle to Revelstoke
 

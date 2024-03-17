@@ -1,11 +1,13 @@
-# preparation
+# Preparation
 
 description
 
 ## Toyota Tacoma
 
 - Headlights
+- Tail Lights
 - Bed Crossbars
+- Bed Mat
 - Gas Can
 - Hitch
 - Spare Tire

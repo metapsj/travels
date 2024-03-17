@@ -5,9 +5,11 @@ description
 ## Toyota Tacoma
 
 - Inspection
-- Battery
-- Belts (Fan, Alternator)
-- Suspension
+  - Battery
+  - Belts (Fan, Alternator)
+  - Suspension
+  - Steering
+  - Spare Tire
 - Oil Change
 - Headlights
 - Tail Lights
@@ -15,7 +17,6 @@ description
 - Bed Mat
 - Gas Can
 - Hitch
-- Spare Tire
 
 ## Communications
 

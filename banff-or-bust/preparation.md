@@ -15,14 +15,17 @@ description
 - Tail Lights
 - Bed Crossbars
 - Bed Mat
-- Gas Can
 - Hitch
+- Gas Can
+
+## Administrative
+
 - Insurance
 - Passport
 - Cellphone Plan
 
 ## Communications
 
-- LoraWan Mesh Network
-- Android App
-- iPhone App
+- LoRaWan
+- Android
+- iPhone/iOS

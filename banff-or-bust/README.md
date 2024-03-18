@@ -5,5 +5,5 @@
 ## ToC
 
 - [Itinerary](itinerary.md)
-- [Notes](notes.md)
 - [Preparation](preparation.md)
+- [Notes](notes.md)

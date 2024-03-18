@@ -17,6 +17,7 @@ description
 - Bed Mat
 - Gas Can
 - Hitch
+- Insurance
 
 ## Communications
 

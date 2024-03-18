@@ -14,6 +14,7 @@ Gasoline Prices & Estimates
 
 - Drive to Revelstoke (7.3 hours[^1])
 - Stay 1 night at Sandman Hotel (pool!) ~\$138
+- Distance: 419 miles
 
 ### Maps
 
@@ -28,6 +29,7 @@ Gasoline Prices & Estimates
 
 - Drive to Jasper via Icefields Parkway (6 hours)
 - Stay 2 nights at Marmot Hotel (pool!) ~\$286
+- Distance: 281 miles
 
 ### Maps
 
@@ -43,6 +45,7 @@ Gasoline Prices & Estimates
 - Drive to Golden via Icefields (4.3 hours)
 - Stay 4 nights in house (hot tub!)
 - (see link below, there are others available too) ~\$265
+- Distance: 192 miles
 
 ### Maps
 
@@ -58,6 +61,7 @@ Gasoline Prices & Estimates
 
 - Drive to Kamloops (4.75 hours)
 - Stay 1 night at Travelodge (pool!) ~\$140
+- Distance: 233 miles
 
 ### Maps
 
@@ -72,6 +76,7 @@ Gasoline Prices & Estimates
 
 - Drive to Seattle (5 hours[^1])
 - Stop at Harrison Lake for a swim
+- Distance: 359 miles
 
 [^2]: Add an hour or so for the trips that include a border crossing.
 

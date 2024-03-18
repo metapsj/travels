@@ -16,7 +16,7 @@ description
 - Bed Crossbars
 - Bed Mat
 - Hitch
-- Gas Can
+- Jerry Can
 
 ## Administrative
 

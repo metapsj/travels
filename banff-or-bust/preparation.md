@@ -10,6 +10,9 @@ description
   - Suspension
   - Steering
   - Spare Tire
+  - Brakes
+  - Windshield Wiper Fluid
+  - Radiator Fluid
 - Oil Change
 - Headlights
 - Tail Lights

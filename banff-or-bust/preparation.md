@@ -18,6 +18,8 @@ description
 - Gas Can
 - Hitch
 - Insurance
+- Passport
+- Cellphone Plan
 
 ## Communications
 

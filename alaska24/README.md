@@ -1,3 +1,9 @@
 # Alaska '24
 
-description
+- Dates: August 21st - 28th
+
+## ToC
+
+- [Itinerary](itinerary.md)
+- [Preparation](preparation.md)
+- [Notes](notes.md)

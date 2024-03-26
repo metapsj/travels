@@ -2,7 +2,7 @@
 
 - Dates: August 21st - 30th
 
-## 21-Aug-2024 - Seattle to Anchorage
+## 21-Aug-24 - Seattle to Anchorage
 
 - ??
 
@@ -14,7 +14,7 @@
 
 - []()
 
-## 25-Aug-2024 - Anchorage to Kodiak
+## 25-Aug-24 - Anchorage to Kodiak
 
 - ??
 
@@ -26,7 +26,7 @@
 
 - []()
 
-## 27-Aug-2024 - Kodiak to Anchorage
+## 27-Aug-24 - Kodiak to Anchorage
 
 - ??
 
@@ -38,7 +38,7 @@
 
 - []()
 
-## 30-Aug-2024 - Anchorage to Seattle
+## 30-Aug-24 - Anchorage to Seattle
 
 - ??
 

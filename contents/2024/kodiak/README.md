@@ -1,4 +1,4 @@
-# Alaska '24
+# Kodiak
 
 - Dates: August 21st - 28th
 

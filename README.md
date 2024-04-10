@@ -1,9 +1,9 @@
 # travels
 
 ## 2024
-- [Banff Or Bust](banff-or-bust/README.md)
-- [Big Island](hawaii24/README.md)
-- [Kodiak](alaska24/README.md)
+- [Banff Or Bust](2024-banff-or-bust/README.md)
+- [Big Island](2024-big-island/README.md)
+- [Kodiak](2024-kodiak/README.md)
 
 ## 2025
 - ??

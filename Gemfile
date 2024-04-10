@@ -3,7 +3,10 @@ source 'https://rubygems.org'
 ruby "3.2.0"
 
 gem 'sqlite3'
-gem 'sequel'
+gem 'sequel'    # ensql
+
+gem 'kramdown'  # redcarpet
+gem 'coderay'
 
 group :development, :test do
   # gem 'guard'

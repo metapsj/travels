@@ -54,7 +54,7 @@ you will see surfers out past turtle canyon.
 
 - [fort derussy beach map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
 - [grays channel - satellite map](https://maps.app.goo.gl/puoEBQEt7FXqJHdL6)
-- [reef between turtle canyon and grays channel - satellite map](https://maps.app.goo.gl/nxtyLpjjB1JtqXF4A)
+- [reef between grays channel and turtle canyon - satellite map](https://maps.app.goo.gl/nxtyLpjjB1JtqXF4A)
 - [turtle canyon - satellite map](https://maps.app.goo.gl/qf7fBKgzzT7YF3EJ9)
 
 ### kailua beach adventures

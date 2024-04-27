@@ -15,6 +15,7 @@ expect to spend ~$170 per person for a full sitting of the omakase service.
 
 ### sushi izakaya gaku
 
+note: expand on the description...
 izakaya-style eatery serving über-traditional Japanese eats including raw fish & omakase.
 also on the more expensive end.
 
@@ -23,7 +24,9 @@ also on the more expensive end.
 
 ### akasaka
 
-description
+note: expand on the description...
+this is where the japanese locals go to chill and unwind.
+tiny, late-night restaurant offering a menu of sushi & other standard japanese eats.
 
 - [website](https://www.akasakahawaii.com/)
 - [map](https://maps.app.goo.gl/mho2rV2URWiGited6)

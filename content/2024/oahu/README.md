@@ -53,8 +53,8 @@ for the uninitiated and safety reasons, it's better to stay closer to the grays 
 you will see surfers out past turtle canyon.  
 
 - [fort derussy beach map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
-- [grays channel satellite map](https://maps.app.goo.gl/puoEBQEt7FXqJHdL6)
-- [reef between turtle canyon and grays channel satellite map](https://maps.app.goo.gl/ETuDrGtqUR5sarv77)
+- [grays channel - satellite map](https://maps.app.goo.gl/puoEBQEt7FXqJHdL6)
+- [reef between turtle canyon and grays channel - satellite map](https://maps.app.goo.gl/nxtyLpjjB1JtqXF4A)
 
 ### kailua beach adventures
 

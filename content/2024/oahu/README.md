@@ -1,12 +1,14 @@
 # oahu
 
-description
+notes about oahu hawaii
 
 ## food
 
 ### sushi sasabune
 
-description
+widely considered the best sushi in the USA by sushi chefs. 
+it's an omakase service meaning the chef chooses what is served. 
+expect to spend ~$170 per person for a full sitting of the omakase service. 
 
 - [website](https://sasabuneh.com/)
 - [map](https://maps.app.goo.gl/U4KrYtME9uZbiK5L8)

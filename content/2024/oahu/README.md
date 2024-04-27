@@ -49,7 +49,8 @@ description
 
 surprisingly good snorkling at the southeast end of grays channel along fort derussy beach park.
 
-- [map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
+- [fort derussy beach map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
+- [grays channel satellite map](https://maps.app.goo.gl/puoEBQEt7FXqJHdL6)
 
 ### kailua beach adventures
 

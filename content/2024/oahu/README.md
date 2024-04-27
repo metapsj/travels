@@ -4,8 +4,6 @@ description
 
 ## food
 
-description 
-
 ### sushi sasabune
 
 description
@@ -20,7 +18,7 @@ description
 - [facebook](https://www.facebook.com/pages/Sushi-Izakaya-Gaku/120501924631924)
 - [map](https://maps.app.goo.gl/zzWdEPo59RovwiS79)
 
-### maguro brothers hawaii chinatown
+### maguro brothers chinatown
 
 excellent afforable locals fresh sushi spot in chinatown.  
 they also have a new location in waikiki but it's more expensive than chinatown.
@@ -45,7 +43,7 @@ description
 
 - [map]()
 
-### kaikua beach adventures
+### kailua beach adventures
 
 sea kayaking and/or paddle boarding in kailua.
 you can kayak out to mokulua islets seabird sanctuary.

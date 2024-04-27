@@ -37,8 +37,6 @@ restaurant at the top of the ilikai. great view.  affordable breakfast and lunch
 
 ## activities
 
-description
-
 ### waikiki beachfront boardwalk
 
 description

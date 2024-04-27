@@ -15,7 +15,7 @@ expect to spend ~$170 per person for a full sitting of the omakase service.
 
 ### sushi izakaya gaku
 
-description
+izakaya-style eatery serving über-traditional Japanese eats including raw fish & omakase.
 
 - [facebook](https://www.facebook.com/pages/Sushi-Izakaya-Gaku/120501924631924)
 - [map](https://maps.app.goo.gl/zzWdEPo59RovwiS79)

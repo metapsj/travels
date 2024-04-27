@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
-ruby "3.2.0"
+ruby "3.3.0"
 
 gem 'sqlite3'
 gem 'sequel'    # ensql
+gem 'rubyzip'   # zip archive as filesystem
 
 gem 'kramdown'  # redcarpet
 gem 'coderay'

@@ -21,6 +21,13 @@ also on the more expensive end.
 - [facebook](https://www.facebook.com/pages/Sushi-Izakaya-Gaku/120501924631924)
 - [map](https://maps.app.goo.gl/zzWdEPo59RovwiS79)
 
+### akasaka
+
+description
+
+- [website](https://www.akasakahawaii.com/)
+- [map](https://maps.app.goo.gl/mho2rV2URWiGited6)
+
 ### maguro brothers chinatown
 
 excellent afforable locals fresh sushi spot in chinatown.  

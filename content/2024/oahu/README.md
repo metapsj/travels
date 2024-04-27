@@ -45,6 +45,12 @@ description
 
 - [map]()
 
+### snorkling grays channel along fort derussy beach park
+
+surprisingly good snorkling at the southeast end of grays channel along fort derussy beach park.
+
+- [map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
+
 ### kailua beach adventures
 
 sea kayaking and/or paddle boarding in kailua.

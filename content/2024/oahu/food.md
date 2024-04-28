@@ -4,7 +4,7 @@ description
 
 ## japanese
 
-### sasabune
+### sushi sasabune
 
 widely considered the best sushi in the USA by sushi chefs. 
 it's an omakase service meaning the chef chooses what is served. 
@@ -21,7 +21,7 @@ they also have a new location in waikiki but it's more expensive than chinatown.
 - [website](https://magurobrothershawaii.com/)
 - [map](https://maps.app.goo.gl/eukXRE5c8wsVkrBD7)
 
-### izakaya gaku
+### sushi izakaya gaku
 
 izakaya-style eatery serving über-traditional Japanese eats including raw fish & omakase.
 

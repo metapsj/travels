@@ -8,7 +8,7 @@ notes about oahu hawaii
 
 ## activities
 - [snorkling](activities.md#snorkling)
-- [sea kayaking / paddle boarding](activities.md#sea-kayaking--paddle-boarding)
+- [sea kayaking](activities.md#sea-kayaking)
 
 ## waikiki
 - [waikiki](waikiki.md)

@@ -12,7 +12,7 @@ description
 
 ## snorkling
 
-### snorkling fort derussy beach park
+### fort derussy beach park
 
 surprisingly good snorkling at the southeast end of grays channel along fort derussy beach park.
 the reef between grays channel and turtle canyon is great area for watching large sea turtles feeding on seaweed sprouts on the reef and coral.
@@ -24,7 +24,20 @@ you will see surfers out past turtle canyon.
 - [reef between grays channel and turtle canyon - satellite map](https://maps.app.goo.gl/nxtyLpjjB1JtqXF4A)
 - [turtle canyon - satellite map](https://maps.app.goo.gl/qf7fBKgzzT7YF3EJ9)
 
-## sea kayaking / paddle boarding
+### hanauma bay
+
+plan ahead, get there early, first thing in the morning, before opening because the parking lot fills up quickly.
+
+Hanauma Bay in Hawaii has a daily visitor capacity of 1,400 people, with the last entry at 1:40 PM. 
+The bay is open to the public Wednesday through Sunday, starting at 6:45 AM. 
+The bay has 300 parking stalls, and some recommend arriving early to get a parking spot.
+
+- entry fee is $25 per person, valid for only 1 day.
+- parking is $3 per vehicle for non-residents
+- [website](https://www.honolulu.gov/parks-hbay/information-fees.html)
+- [map](https://maps.app.goo.gl/ifh9qNDfpf6XBAp49)
+
+## sea kayaking
 
 ### kailua beach adventures
 

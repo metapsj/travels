@@ -29,6 +29,6 @@ The price is $28 per car, per day. The price is from third party parking managem
 pesca waikiki beach is a mediterranean restaurant at the top of the ilikai.
 
 - great view
-- breakfast, afforable, ~$12 to $15
-- lunch, afforable, ~$12 to $15
+- breakfast, ~$12 to $15
+- lunch, ~$12 to $15
 

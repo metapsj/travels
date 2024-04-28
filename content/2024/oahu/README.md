@@ -2,77 +2,11 @@
 
 notes about oahu hawaii
 
-## food
+- [food](food.md)
+- [activities](activities.md)
 
-### sushi sasabune
+### TODO
 
-widely considered the best sushi in the USA by sushi chefs. 
-it's an omakase service meaning the chef chooses what is served. 
-expect to spend ~$170 per person for a full sitting of the omakase service. 
-
-- [website](https://sasabuneh.com/)
-- [map](https://maps.app.goo.gl/U4KrYtME9uZbiK5L8)
-
-### sushi izakaya gaku
-
-note: expand on the description...
-izakaya-style eatery serving über-traditional Japanese eats including raw fish & omakase.
-also on the more expensive end.
-
-- [facebook](https://www.facebook.com/pages/Sushi-Izakaya-Gaku/120501924631924)
-- [map](https://maps.app.goo.gl/zzWdEPo59RovwiS79)
-
-### akasaka
-
-note: expand on the description...
-this is where the japanese locals go to chill and unwind.
-tiny, late-night restaurant offering a menu of sushi & other standard japanese eats.
-
-- [website](https://www.akasakahawaii.com/)
-- [map](https://maps.app.goo.gl/mho2rV2URWiGited6)
-
-### maguro brothers chinatown
-
-excellent afforable locals fresh sushi spot in chinatown.  
-they also have a new location in waikiki but it's more expensive than chinatown.
-
-- [website](https://magurobrothershawaii.com/)
-- [map](https://maps.app.goo.gl/eukXRE5c8wsVkrBD7)
-
-### pesca waikiki beach 
-
-restaurant at the top of the ilikai. great view.  affordable breakfast and lunch, ~$12 to $15.
-
-- [website](https://www.pescawaikikibeach.com/)
-- [map](https://maps.app.goo.gl/7itTVchfocAGjPLN6)
-
-## activities
-
-### waikiki beachfront boardwalk
-
-description
-
-- [map]()
-
-### snorkling fort derussy beach park
-
-surprisingly good snorkling at the southeast end of grays channel along fort derussy beach park.
-the reef between grays channel and turtle canyon is great area for watching large sea turtles feeding on seaweed sprouts on the reef and coral.
-for the uninitiated and safety reasons, it's better to stay closer to the grays channel side of the reef than the turtle canyon side of the reef.
-you will see surfers out past turtle canyon.  
-
-- [fort derussy beach map](https://maps.app.goo.gl/KUzUsu3uxL96ANwq5)
-- [grays channel - satellite map](https://maps.app.goo.gl/puoEBQEt7FXqJHdL6)
-- [reef between grays channel and turtle canyon - satellite map](https://maps.app.goo.gl/nxtyLpjjB1JtqXF4A)
-- [turtle canyon - satellite map](https://maps.app.goo.gl/qf7fBKgzzT7YF3EJ9)
-
-### kailua beach adventures
-
-sea kayaking and/or paddle boarding in kailua.
-you can kayak to the mokulua islets seabird sanctuary beach and hike around the beach area.
-
-- [website](https://www.kailuabeachadventures.com/)
-- [map](https://maps.app.goo.gl/d8Cfj5Vv7xxCndoR7)
-- [mokulua - map](https://maps.app.goo.gl/AKHmx4bBb5KPksqN6)
-- [mokulua - satellite map](https://maps.app.goo.gl/Ws35r6JRZdhavStj7)
+- fix satellite map links
+- add annotations to satellite maps
 

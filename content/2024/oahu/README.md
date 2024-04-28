@@ -14,7 +14,6 @@ notes about oahu hawaii
 - [waikiki](waikiki.md)
 
 ## ilikai
-- [ilikai](ilikai.md)
 - [parking](ilikai.md#parking)
 - [pesca restaurant](ilikai.md#pesca-restaurant)
 

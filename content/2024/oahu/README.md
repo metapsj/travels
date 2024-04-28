@@ -18,7 +18,12 @@ notes about oahu hawaii
 - [pesca restaurant](ilikai.md#pesca-restaurant)
 
 ## hale koa
-- [hale koa](halekoa.md)
+- [lanai](halekoa.md#lanai)
+- [morning market](halekoa.md#morning-market)
+- [starbucks kiosk](halekoa.md#starbucks-kiosk)
+- [banyan tree](halekoa.md#banyan-tree)
+- [barefoot beach bar](halekoa.md#barefoot-beach-bar)
+- [happys fast and fresh](halekoa.md#happys-fast-and-fresh) 
 
 ## chinatown
 - [chinatown](chinatown.md)

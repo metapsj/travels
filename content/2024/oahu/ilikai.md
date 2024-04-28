@@ -10,8 +10,7 @@ description
 
 Since Matt is staying at the Hale Koa Hotel, he is able to request an additional parking pass.
 
-The price is $20 per car, per day, and is not transferrable. 
-During check-in, you can get a parking pass with in/out privileges to use during your stay.
+The price is $20 per car, per day. During check-in, you can get a parking pass with in/out privileges to use during your stay.
 
 - [website](https://www.halekoa.com/about-hale-koa-hotel/parking)
 - [map](https://maps.app.goo.gl/DURKSKkUs197aGgAA)

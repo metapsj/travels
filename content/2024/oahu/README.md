@@ -3,8 +3,8 @@
 notes about oahu hawaii
 
 ## food
-- [sushi](food.md#sushi)
-- [breakfast/lunch](food.md#breakfastlunch)
+- [japanese/sushi](food.md#sushi)
+- [breakfast/lunch at ilikai](ilikai.md#pesca-restaurant)
 
 ## activities
 - [snorkling](activities.md#snorkling)

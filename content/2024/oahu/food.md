@@ -31,7 +31,8 @@ izakaya-style eatery serving über-traditional Japanese eats including raw fish 
 ### akasaka
 
 tiny, late-night restaurant offering a menu of sushi & other standard japanese eats.
-this is where the japanese locals go to chill and unwind.
+
+this is where the locals go to chill and unwind on the weekend.
 
 - [website](https://www.akasakahawaii.com/)
 - [map](https://maps.app.goo.gl/mho2rV2URWiGited6)

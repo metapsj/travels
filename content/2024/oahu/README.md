@@ -4,6 +4,7 @@ notes about oahu hawaii
 
 - [food](food.md)
 - [activities](activities.md)
+- [waikiki](waikiki.md)
 
 #### TODO 
 

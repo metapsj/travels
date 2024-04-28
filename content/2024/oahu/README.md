@@ -19,7 +19,7 @@ notes about oahu hawaii
 ## hale koa
 - [hale koa](halekoa.md)
 
-#### TODO 
+## TODO 
 
 - fix satellite map links 
 - add annotations to satellite maps

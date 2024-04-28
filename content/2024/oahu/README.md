@@ -4,11 +4,11 @@ notes about oahu hawaii
 
 ## food
 - [sushi](food.md#sushi)
-- [breakfast/lunch](food.md#breakfast/lunch)
+- [breakfast/lunch](food.md#breakfastlunch)
 
 ## activities
 - [snorkling](activities.md#snorkling)
-- [sea kayaking / paddle boarding](activities.md#sea-kayaking-/-paddle-boarding)
+- [sea kayaking / paddle boarding](activities.md#sea-kayaking--paddle-boarding)
 
 ## waikiki
 - [waikiki](waikiki.md)

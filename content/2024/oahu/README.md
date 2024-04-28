@@ -20,6 +20,9 @@ notes about oahu hawaii
 ## hale koa
 - [hale koa](halekoa.md)
 
+## chinatown
+- [chinatown](chinatown.md)
+
 ## TODO 
 
 - fix satellite map links 

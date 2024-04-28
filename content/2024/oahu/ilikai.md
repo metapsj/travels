@@ -1,6 +1,6 @@
 # ilikai
 
-description
+notes related to ilikai hotel and suites.
 
 ## parking
 

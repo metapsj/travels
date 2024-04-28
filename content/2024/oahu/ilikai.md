@@ -6,7 +6,7 @@ description
 
 parking at the ilikai hotel is valet only.  the price is $45 per car, per day plus tips.
 
-see other options for parking below...
+for other parking options see below...
 
 ### hale koa hotel parking garage
 

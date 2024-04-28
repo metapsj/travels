@@ -2,10 +2,21 @@
 
 notes about oahu hawaii
 
-- [food](food.md)
-- [activities](activities.md)
+## food
+- [sushi](food.md#sushi)
+- [breakfast/lunch](food.md#breakfast/lunch)
+
+## activities
+- [snorkling](activities.md#snorkling)
+- [sea kayaking / paddle boarding](activities.md#sea-kayaking-/-paddle-boarding)
+
+## waikiki
 - [waikiki](waikiki.md)
+
+## ilikai
 - [ilikai](ilikai.md)
+
+## hale koa
 - [hale koa](halekoa.md)
 
 #### TODO 

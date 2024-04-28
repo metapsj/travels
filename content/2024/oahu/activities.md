@@ -49,3 +49,17 @@ you can kayak to the mokulua islets seabird sanctuary beach and hike around the 
 - [mokulua - map](https://maps.app.goo.gl/AKHmx4bBb5KPksqN6)
 - [mokulua - satellite map](https://maps.app.goo.gl/Ws35r6JRZdhavStj7)
 
+## live music
+
+###  kani ka pila grille
+
+Ho'okena plays Saturday evenings.
+
+Ka Hehena plays Friday evenings.
+
+- [bar & grill website](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/food-drinks/kani-ka-pila-grille)
+- [live music music](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/live-music)
+- [map](https://maps.app.goo.gl/7w2Q73t25xWsw37A7)
+- [youtube](https://www.youtube.com/watch?v=x-q0JT6Dv-I)
+
+

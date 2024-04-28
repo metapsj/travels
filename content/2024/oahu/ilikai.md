@@ -14,14 +14,14 @@ The price is $20 per car, per day. During check-in, you can get a parking pass w
 
 - [website](https://www.halekoa.com/about-hale-koa-hotel/parking)
 - [map](https://maps.app.goo.gl/DURKSKkUs197aGgAA)
-- [walking directions from/to ilikai](https://maps.app.goo.gl/Cze2M9udJJa4odt99)
+- [directions to/from ilikai](https://maps.app.goo.gl/Cze2M9udJJa4odt99)
 
 ### ilikai marina parking garage
 
 The price is $28 per car, per day. The price is from third party parking management websites and recent google reviews.
 
 - [map](https://maps.app.goo.gl/tXMvtrvDqZ9XkhDU8)
-- [directions from/to ilikai](https://maps.app.goo.gl/Qj6CVWkA55ngKgwK6)
+- [directions to/from ilikai](https://maps.app.goo.gl/Qj6CVWkA55ngKgwK6)
 
 ## pesca restaurant
 

@@ -15,6 +15,8 @@ notes about oahu hawaii
 
 ## ilikai
 - [ilikai](ilikai.md)
+- [parking](ilikai.md#parking)
+- [pesca restaurant](ilikai.md#pesca-restaurant)
 
 ## hale koa
 - [hale koa](halekoa.md)

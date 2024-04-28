@@ -1,5 +1,7 @@
 # activities
 
+description
+
 ## waikiki beachfront boardwalk
 
 description

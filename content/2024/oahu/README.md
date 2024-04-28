@@ -5,8 +5,7 @@ notes about oahu hawaii
 - [food](food.md)
 - [activities](activities.md)
 
-### todo
+### TODO 
 
-- fix satellite map links
+- fix satellite map links 
 - add annotations to satellite maps
-

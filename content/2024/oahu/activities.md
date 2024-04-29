@@ -58,7 +58,7 @@ Ka Hehena plays Friday evenings.
 Ho'okena plays Saturday evenings.
 
 - [bar & grill website](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/food-drinks/kani-ka-pila-grille)
-- [live music music](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/live-music)
+- [live music website](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/activities/live-music)
 - [map](https://maps.app.goo.gl/7w2Q73t25xWsw37A7)
 - [youtube](https://www.youtube.com/watch?v=x-q0JT6Dv-I)
 - [waimanalo blues by ka hehena](https://youtu.be/yzbv1JclR4M?si=ES7-7sHbWL4ArYTd&t=20s)
